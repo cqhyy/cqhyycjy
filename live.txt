@@ -1,5 +1,8 @@
 湖北频道,#genre#
-湖北卫视,http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8#http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
+湖北卫视,http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8
+湖北卫视,http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8
+湖北卫视,http://39.134.39.37/PLTV/88888888/224/3221226159/index.m3u8
+湖北卫视,http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
 湖北综合,http://enshi-live21.cjyun.org/hbtv/hbtv-hbzh.m3u8?auth_key=1640966399-0-0-2ecc091d3ee5ef3094151b78c1132701 
 湖北经视,http://enshi-live21.cjyun.org/hbtv/hbtv-hbjs.m3u8?auth_key=1640966399-0-0-691ed8ee5498939e45ab54952d15b72b 
 湖北公共新闻,http://enshi-live21.cjyun.org/hbtv/hbtv-hbgg.m3u8?auth_key=1640966399-0-0-fcacd730a23128594ac3b607b11c269e 
@@ -37,4 +40,4 @@
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYM
